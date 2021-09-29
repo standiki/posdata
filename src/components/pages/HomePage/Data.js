@@ -4,10 +4,10 @@ export const homeObjOne = {
     lightTextDesc: true,
     topLine: 'Exclusive Access',
     headline: 'Ulimited Transactions with zero fees',
-    description: `Let us balance and keep records of your daily transactions`,
+    description: `Daily recording of your business transactions.`,
     buttonLabel: 'Get Started',
     imgStart: '',
-    img: 'images/svg-9.svg',
+    img: 'images/svg-10.svg',
     alt: 'Cloud DB'
 };
 
